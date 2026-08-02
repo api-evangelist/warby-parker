@@ -1,0 +1,22 @@
+# Warby Parker
+
+> Warby Parker offers prescription eyeglasses, sunglasses, contact lenses, eye exams, prescription services, insurance support, and retail vision care online and in stores.
+
+Warby Parker is an eyewear and vision care company. Use the Markdown resources linked below as the preferred LLM-readable versions of Warby Parker's public pages.
+
+Use live Warby Parker HTML pages, booking flows, store pages, product pages, and insurance tools as the source of truth for current pricing, promotions, appointment availability, store hours, insurance participation, product availability, contact lens offers, and other time-sensitive details.
+
+## Vision care and prescriptions
+
+- [Get a prescription](https://www.warbyparker.com/llms/pages/get-a-prescription.md): LLM-readable guide to getting a new prescription, renewing a prescription, and prescription service options.
+- [Virtual Vision Test](https://www.warbyparker.com/llms/pages/virtual-vision-test.md): LLM-readable guide to app-based prescription renewal, eligibility, limitations, and next steps.
+- [Measure your PD](https://www.warbyparker.com/llms/pages/measure-your-pd.md): LLM-readable guide to pupillary distance measurement and when PD is needed.
+
+## Company information
+
+- [Our story](https://www.warbyparker.com/llms/pages/history.md): LLM-readable company background, founding story, mission, and business model.
+- [Buy a Pair, Give a Pair](https://www.warbyparker.com/llms/pages/buy-a-pair-give-a-pair.md): LLM-readable guide to Warby Parker's pair-distribution program.
+
+## Education and optional content
+
+- [How our glasses are made](https://www.warbyparker.com/llms/pages/how-our-glasses-are-made.md): LLM-readable guide to frame design, materials, and manufacturing.
